@@ -22,6 +22,6 @@ I have marked them at Server Side
 
 Have nice day :)
 
-- im not creating this, im just custom this source and I added a series of things to it 
+- im not creating this, im just custom this source and I added a series of things to it cause Several people sold this edit without the permission of the copyright holder
 
 Discord : Mehrbod Blade #7522
