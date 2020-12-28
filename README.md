@@ -18,6 +18,7 @@ if xPlayer.get('aduty') then -- Or any command that admins activate with this de
 ```
 I have marked them at Server Side
 
-and done 
-         : Have nice day :)
+- and done 
+
+Have nice day :)
 Discord : Mehrbod Blade #7522
