@@ -1,7 +1,7 @@
 # Admin-Zone
 - this a Zone  for admins of server 
 
-##for example:
+- for example:
 you can create custom zone at map with your custom distance
 
 
@@ -9,7 +9,7 @@ you can create custom zone at map with your custom distance
 - for First you need Add this in your `server.cfg`:
 
 ```
-start AdminZone
+ensure AdminZone
 ```
 - after this set your command that admins activate with this device on your server (replace 'aduty')
 
