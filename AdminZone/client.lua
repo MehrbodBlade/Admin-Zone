@@ -4,7 +4,7 @@
 local misTxtDis = "~r~~h~RP Stopped in an area of ​​the map. Please do not enter this area at all." -- Use colors from: https://gist.github.com/leonardosnt/061e691a1c6c0597d633
 local blipRadius = 60.0 -- default radius, if none is specified.
 local blipCol = 8 -- Default: 2 (Green) Use colors from https://wiki.gt-mp.net/index.php?title=Blips (At Bottom)
-local blipName = "Admin Pause"
+local blipName = "Admin Zone"
 local alredypause = false
 
 --- Client Code ---
