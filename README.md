@@ -16,4 +16,8 @@ ensure AdminZone
 ```lua
 if xPlayer.get('aduty') then -- Or any command that admins activate with this device on your server (replace 'aduty')
 ```
-at Server Side
+I have marked them at Server Side
+
+and done 
+         : Have nice day :)
+Discord : Mehrbod Blade #7522
